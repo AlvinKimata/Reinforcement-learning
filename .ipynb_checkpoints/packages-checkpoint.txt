@@ -1,1 +1,2 @@
 pymol
+libgl1-mesa-dri
