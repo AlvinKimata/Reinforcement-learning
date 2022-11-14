@@ -1,0 +1,2 @@
+gym[atari,accept-rom-license,all]
+gym==0.18.0
