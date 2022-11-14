@@ -1,2 +1,2 @@
 # Reinforcement-learning
-This repo contains code implementations of basic RL algorithms.
+This repository contains code implementations of basic RL algorithms.
