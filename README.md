@@ -18,3 +18,6 @@ The error `libGL error: MESA-LOADER: failed to open iris` can be solved using th
 
 
 ### Installing ROMs.
+***
+Download the ROMS [here](http://www.atarimania.com/roms/Roms.rar) and extract the `.rar` file. 
+Run `python -m atari_py.import_roms <path to folder>`. The ROMs should be copied to your `atari_py` installation directory.
