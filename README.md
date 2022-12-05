@@ -15,3 +15,6 @@ sudo add-apt-repository universe
 sudo xargs -a packages.txt apt-get install
 ```
 The error `libGL error: MESA-LOADER: failed to open iris` can be solved using the instructions found [here.](https://stackoverflow.com/questions/72110384/libgl-error-mesa-loader-failed-to-open-iris)
+
+
+### Installing ROMs.
